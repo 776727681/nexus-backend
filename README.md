@@ -1,3 +1,4 @@
+### 项目目录结构
 nexus-backend/
 ├── cmd/
 │   └── server/
@@ -26,3 +27,11 @@ nexus-backend/
 ├── scripts/                # 脚本文件
 ├── go.mod
 └── go.sum
+
+
+### 技术栈
+golang 1.23  
+gin 1.10   
+mysql 8.0  
+redis 7.2 
+kafka 3.7
