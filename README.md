@@ -33,5 +33,5 @@ nexus-backend/
 golang 1.23  
 gin 1.10   
 mysql 8.0  
-redis 7.2 
+redis 7.2  
 kafka 3.7
